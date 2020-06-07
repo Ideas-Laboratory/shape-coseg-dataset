@@ -1,0 +1,47 @@
+
+* {
+	padding:0;
+	margin:0;
+}
+
+body {
+	color: #000000;
+	background-color:#FFFFFF;
+	font-family:Arial, sans-serif;
+	font-size:18px;
+	margin:0;
+	padding: 0;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	/*border: 1px solid #000000;*/
+	text-align: left; /* this overrides the text-align: center on the body element. */
+	padding: 1em 2em 2em 2em;
+	/*background: #ffffff;*/
+}
+
+img{
+ border:0px;
+}
+table {
+	font-size: 18px;
+
+}
+
+h1,h2,h3,p {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;}
+
+ul {
+   margin-left: 2em;
+}
+
+h1 {font-size:207%;}
+
+h2 {font-size:144%;}
+
+h3 {font-size:121%;}
+
+h4 {font-size:110%;}
